@@ -6,7 +6,7 @@ I'm a Student of Software Engineering in UTM.
 
 I am a student in the first semester of my first year this year. I have just learned some basic information about computer technology. I am very passionate about this course.
 
-* 🌍  I'm based in Johor.Malaysia.
+* 🌍  I'm based in Johor，Malaysia.
 * ✉️  You can contact me at [ongsian@graduate.utm.my](mailto:ongsian@graduate.utm.my)
 
 ### Skills
